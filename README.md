@@ -1,4 +1,4 @@
-# OPT generator
+# OTP generator
 > 'otp_generator' is simple one time password generator.
 
 ## Index
